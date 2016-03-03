@@ -1,3 +1,4 @@
+# should be executed from the jbrowse root directory
 rm -rf human38
 mkdir human38
 #wget http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.chromFa.tar.gz
